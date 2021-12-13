@@ -1,0 +1,124 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+/styles.f628065b851287e306e5.css
+  Cache-Control: public, max-age=31536000, immutable
+/styles-c0af7761ea282f034735.js
+  Cache-Control: public, max-age=31536000, immutable
+/commons-7c7db6669b117a6a8329.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-homepage-query-tsx-9b4c4171ca48626b6790.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-blog-query-tsx-a6004af7d8d20fd292f9.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tags-query-tsx-17a6b66f1a736bfab870.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-post-query-tsx-8162a215be1cb36dc4df.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-page-query-tsx-81d8c81c9fa6f53f6875.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx-90f2bc0efbf869a77dfa.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---node-modules-gatsby-plugin-offline-app-shell-js-568c113b24a9e8ed8db8.js
+  Cache-Control: public, max-age=31536000, immutable
+/webpack-runtime-6260eaf595be27267e68.js
+  Cache-Control: public, max-age=31536000, immutable
+/app-924aa9d8f491da417c6f.js
+  Cache-Control: public, max-age=31536000, immutable
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+/sw.js
+  Cache-Control: no-cache
+/
+  Link: </webpack-runtime-6260eaf595be27267e68.js>; rel=preload; as=script
+  Link: </commons-7c7db6669b117a6a8329.js>; rel=preload; as=script
+  Link: </app-924aa9d8f491da417c6f.js>; rel=preload; as=script
+  Link: </styles-c0af7761ea282f034735.js>; rel=preload; as=script
+  Link: </commons-7c7db6669b117a6a8329.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-homepage-query-tsx-9b4c4171ca48626b6790.js>; rel=preload; as=script
+/blog
+  Link: </webpack-runtime-6260eaf595be27267e68.js>; rel=preload; as=script
+  Link: </commons-7c7db6669b117a6a8329.js>; rel=preload; as=script
+  Link: </app-924aa9d8f491da417c6f.js>; rel=preload; as=script
+  Link: </styles-c0af7761ea282f034735.js>; rel=preload; as=script
+  Link: </commons-7c7db6669b117a6a8329.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-blog-query-tsx-a6004af7d8d20fd292f9.js>; rel=preload; as=script
+/tags
+  Link: </webpack-runtime-6260eaf595be27267e68.js>; rel=preload; as=script
+  Link: </commons-7c7db6669b117a6a8329.js>; rel=preload; as=script
+  Link: </app-924aa9d8f491da417c6f.js>; rel=preload; as=script
+  Link: </styles-c0af7761ea282f034735.js>; rel=preload; as=script
+  Link: </commons-7c7db6669b117a6a8329.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tags-query-tsx-17a6b66f1a736bfab870.js>; rel=preload; as=script
+/introduction-to-defence-against-the-dark-arts
+  Link: </webpack-runtime-6260eaf595be27267e68.js>; rel=preload; as=script
+  Link: </commons-7c7db6669b117a6a8329.js>; rel=preload; as=script
+  Link: </app-924aa9d8f491da417c6f.js>; rel=preload; as=script
+  Link: </styles-c0af7761ea282f034735.js>; rel=preload; as=script
+  Link: </commons-7c7db6669b117a6a8329.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-post-query-tsx-8162a215be1cb36dc4df.js>; rel=preload; as=script
+/fantastic-beasts-and-where-to-find-them
+  Link: </webpack-runtime-6260eaf595be27267e68.js>; rel=preload; as=script
+  Link: </commons-7c7db6669b117a6a8329.js>; rel=preload; as=script
+  Link: </app-924aa9d8f491da417c6f.js>; rel=preload; as=script
+  Link: </styles-c0af7761ea282f034735.js>; rel=preload; as=script
+  Link: </commons-7c7db6669b117a6a8329.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-post-query-tsx-8162a215be1cb36dc4df.js>; rel=preload; as=script
+/curses-and-counter-curses-bewitch-your-friends-and-befuddle-your-enemies-with-the-latest-revenges-hair-loss-jelly-legs-tongue-tying-and-much-much-more
+  Link: </webpack-runtime-6260eaf595be27267e68.js>; rel=preload; as=script
+  Link: </commons-7c7db6669b117a6a8329.js>; rel=preload; as=script
+  Link: </app-924aa9d8f491da417c6f.js>; rel=preload; as=script
+  Link: </styles-c0af7761ea282f034735.js>; rel=preload; as=script
+  Link: </commons-7c7db6669b117a6a8329.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-post-query-tsx-8162a215be1cb36dc4df.js>; rel=preload; as=script
+/harry-potter-and-the-half-blood-prince
+  Link: </webpack-runtime-6260eaf595be27267e68.js>; rel=preload; as=script
+  Link: </commons-7c7db6669b117a6a8329.js>; rel=preload; as=script
+  Link: </app-924aa9d8f491da417c6f.js>; rel=preload; as=script
+  Link: </styles-c0af7761ea282f034735.js>; rel=preload; as=script
+  Link: </commons-7c7db6669b117a6a8329.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-post-query-tsx-8162a215be1cb36dc4df.js>; rel=preload; as=script
+/about
+  Link: </webpack-runtime-6260eaf595be27267e68.js>; rel=preload; as=script
+  Link: </commons-7c7db6669b117a6a8329.js>; rel=preload; as=script
+  Link: </app-924aa9d8f491da417c6f.js>; rel=preload; as=script
+  Link: </styles-c0af7761ea282f034735.js>; rel=preload; as=script
+  Link: </commons-7c7db6669b117a6a8329.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-page-query-tsx-81d8c81c9fa6f53f6875.js>; rel=preload; as=script
+/tags/dark-arts
+  Link: </webpack-runtime-6260eaf595be27267e68.js>; rel=preload; as=script
+  Link: </commons-7c7db6669b117a6a8329.js>; rel=preload; as=script
+  Link: </app-924aa9d8f491da417c6f.js>; rel=preload; as=script
+  Link: </styles-c0af7761ea282f034735.js>; rel=preload; as=script
+  Link: </commons-7c7db6669b117a6a8329.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx-90f2bc0efbf869a77dfa.js>; rel=preload; as=script
+/tags/highlight
+  Link: </webpack-runtime-6260eaf595be27267e68.js>; rel=preload; as=script
+  Link: </commons-7c7db6669b117a6a8329.js>; rel=preload; as=script
+  Link: </app-924aa9d8f491da417c6f.js>; rel=preload; as=script
+  Link: </styles-c0af7761ea282f034735.js>; rel=preload; as=script
+  Link: </commons-7c7db6669b117a6a8329.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx-90f2bc0efbf869a77dfa.js>; rel=preload; as=script
+/tags/novel
+  Link: </webpack-runtime-6260eaf595be27267e68.js>; rel=preload; as=script
+  Link: </commons-7c7db6669b117a6a8329.js>; rel=preload; as=script
+  Link: </app-924aa9d8f491da417c6f.js>; rel=preload; as=script
+  Link: </styles-c0af7761ea282f034735.js>; rel=preload; as=script
+  Link: </commons-7c7db6669b117a6a8329.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx-90f2bc0efbf869a77dfa.js>; rel=preload; as=script
+/tags/tutorial
+  Link: </webpack-runtime-6260eaf595be27267e68.js>; rel=preload; as=script
+  Link: </commons-7c7db6669b117a6a8329.js>; rel=preload; as=script
+  Link: </app-924aa9d8f491da417c6f.js>; rel=preload; as=script
+  Link: </styles-c0af7761ea282f034735.js>; rel=preload; as=script
+  Link: </commons-7c7db6669b117a6a8329.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx-90f2bc0efbf869a77dfa.js>; rel=preload; as=script
+/offline-plugin-app-shell-fallback/
+  Link: </webpack-runtime-6260eaf595be27267e68.js>; rel=preload; as=script
+  Link: </commons-7c7db6669b117a6a8329.js>; rel=preload; as=script
+  Link: </app-924aa9d8f491da417c6f.js>; rel=preload; as=script
+  Link: </component---node-modules-gatsby-plugin-offline-app-shell-js-568c113b24a9e8ed8db8.js>; rel=preload; as=script
